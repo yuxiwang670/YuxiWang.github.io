@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Experiences on Yuxi Wang</title><link>https://yuxiwang670.github.io/experience/</link><description>Recent content in Experiences on Yuxi Wang</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 23 Jan 2025 15:06:00 +0800</lastBuildDate><atom:link href="https://yuxiwang670.github.io/experience/index.xml" rel="self" type="application/rss+xml"/><item><title>Research Assistant in Applied Psychology</title><link>https://yuxiwang670.github.io/experience/ra_first/</link><pubDate>Thu, 23 Jan 2025 15:06:00 +0800</pubDate><guid>https://yuxiwang670.github.io/experience/ra_first/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experiences on Yuxi Wang</title>
+    <link>https://yuxiwang670.github.io/experience/</link>
+    <description>Recent content in Experiences on Yuxi Wang</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 23 Jan 2025 15:06:00 +0800</lastBuildDate>
+    <atom:link href="https://yuxiwang670.github.io/experience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research Assistant in Applied Psychology</title>
+      <link>https://yuxiwang670.github.io/experience/ra_first/</link>
+      <pubDate>Thu, 23 Jan 2025 15:06:00 +0800</pubDate>
+      <guid>https://yuxiwang670.github.io/experience/ra_first/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
