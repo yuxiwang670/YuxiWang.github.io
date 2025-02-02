@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Education on </title>
+    <link>http://localhost:1313/en/education/</link>
+    <description>Recent content in Education on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 23 Jan 2025 15:12:23 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/education/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Phd</title>
+      <link>http://localhost:1313/en/education/phd/</link>
+      <pubDate>Thu, 23 Jan 2025 15:12:23 +0800</pubDate>
+      <guid>http://localhost:1313/en/education/phd/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

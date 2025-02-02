@@ -1,19 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Experiences on Yuxi Wang</title>
-    <link>https://yuxiwang670.github.io/experience/</link>
-    <description>Recent content in Experiences on Yuxi Wang</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 23 Jan 2025 15:06:00 +0800</lastBuildDate>
-    <atom:link href="https://yuxiwang670.github.io/experience/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Research Assistant in Applied Psychology</title>
-      <link>https://yuxiwang670.github.io/experience/ra_first/</link>
-      <pubDate>Thu, 23 Jan 2025 15:06:00 +0800</pubDate>
-      <guid>https://yuxiwang670.github.io/experience/ra_first/</guid>
-      <description></description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Experiences on</title><link>https://yuxiwang670.github.io/experience/</link><description>Recent content in Experiences on</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 28 Jan 2025 13:00:03 +0800</lastBuildDate><atom:link href="https://yuxiwang670.github.io/experience/index.xml" rel="self" type="application/rss+xml"/><item><title>Professional Training</title><link>https://yuxiwang670.github.io/experience/experience-5/</link><pubDate>Tue, 28 Jan 2025 13:00:03 +0800</pubDate><guid>https://yuxiwang670.github.io/experience/experience-5/</guid><description>&lt;h5 id="computational-psychiatry-course-2020--sep-2020">Computational Psychiatry Course 2020 (Sep. 2020)&lt;/h5>
+&lt;p>&lt;strong>Duration&lt;/strong>: 5-day lectures &amp;amp; 1-day tutorials&lt;/p>
+&lt;p>&lt;strong>Organizer&lt;/strong>: The Translational Neuromodeling Unit, University of Zurich, ETH Zurich&lt;/p>
+&lt;ul>
+&lt;li>Lecture topics contain Bayesian Learning, Active Inference, Reinforcement Learning &amp;amp; Decision-Making, Model Inversion, Machine Learning&lt;/li>
+&lt;li>Attended the tutorial for machine learning&lt;/li>
+&lt;/ul>
+&lt;h5 id="2020-neuromatch-academy-summer-school-for-computational-neuroscience-jul-2020">2020 Neuromatch Academy summer school for computational neuroscience (Jul. 2020)&lt;/h5>
+&lt;p>&lt;strong>Duration&lt;/strong>: 3-week tutorials &amp;amp; group project&lt;/p>
+&lt;p>&lt;strong>Organizer&lt;/strong>: Neuromatch Academy Team&lt;/p>
+&lt;ul>
+&lt;li>Tutorial topics include Python Workshop, Model Types, Modeling Practice, Model Fitting, Machine Learning, Dimensionality Reduction, Bayesian Statistics, Linear Systems, Decision Making, Optimal Control, Reinforcement Learning, Real Neurons, Dynamic Networks, Network Causality, Deep Learning.&lt;/li>
+&lt;li>Involved in building deep learning model to predict the participants&amp;rsquo; task performance through resting-state fMRI whole brain regions of functional connectivity.&lt;/li>
+&lt;/ul>
+&lt;h5 id="udacity-virtual-reality-nanodegree-2017-2018">Udacity Virtual Reality Nanodegree (2017 –2018)&lt;/h5>
+&lt;p>&lt;strong>Organizer&lt;/strong>: Udacity&lt;/p></description></item><item><title>Ph.D. Program</title><link>https://yuxiwang670.github.io/experience/experience-4/</link><pubDate>Mon, 27 Jan 2025 22:42:29 +0800</pubDate><guid>https://yuxiwang670.github.io/experience/experience-4/</guid><description>&lt;h5 id="investigating-social-cognitive-characteristics-of-social-anxiety-within-the-bayesian-framework">Investigating Social Cognitive Characteristics of Social Anxiety within the Bayesian Framework&lt;/h5>
+&lt;p>&lt;em>Funded by General Program of National Natural Science Foundation of China (32471151)&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Investigating the role of prior expectations in atypical social cognition among individuals with high social anxiety traits.&lt;/li>
+&lt;li>Delineating and constructing the prior model for emotion recognition in social interactions.&lt;/li>
+&lt;li>Analyzing the formation of prior expectations among individuals with high social anxiety, and uncovering the underlying neural mechanisms.&lt;/li>
+&lt;/ul>
+&lt;h5 id="a-mechanistic-investigation-of-emotion-processing-and-social-cognition-in-social-anxiety-disorder-based-on-biological-motion">A Mechanistic Investigation of Emotion Processing and Social Cognition in Social Anxiety Disorder Based on Biological Motion&lt;/h5>
+&lt;p>&lt;em>Funded by Young Scientists Fund of the National Natural Science Foundation of China (32200854)&lt;/em>&lt;/p></description></item><item><title>Research Assistant</title><link>https://yuxiwang670.github.io/experience/experience-3/</link><pubDate>Mon, 27 Jan 2025 22:42:17 +0800</pubDate><guid>https://yuxiwang670.github.io/experience/experience-3/</guid><description>&lt;h5 id="revisited-resting-state-functional-connectivity-between-amygdala-and-subgenual-anterior-cingulate-cortex-in-depressive-adolescents-and-adults">Revisited Resting-state Functional Connectivity Between Amygdala and Subgenual Anterior Cingulate cortex in Depressive Adolescents and Adults&lt;/h5>
+&lt;ul>
+&lt;li>Examined connectivity between the amygdala and multiple prefrontal regions in large adolescent and adult open resting-state fMRI datasets.&lt;/li>
+&lt;li>Refined neurocognitive models separately for adolescents and adults.&lt;/li>
+&lt;/ul>
+&lt;h5 id="aberrant-social-cognitive-functions-in-autism-a-meta-analysis">Aberrant Social Cognitive Functions in Autism: A Meta-Analysis&lt;/h5>
+&lt;ul>
+&lt;li>Comprehensively reviewed the atypical social cognition of autism within a hierarchical concept structure, covering key aspects including social attention, social touch, social space, self, self-emotion, social evaluation, social learning, social reasoning, and social motivation.&lt;/li>
+&lt;/ul></description></item><item><title>Master Program</title><link>https://yuxiwang670.github.io/experience/experience-2/</link><pubDate>Mon, 27 Jan 2025 22:42:01 +0800</pubDate><guid>https://yuxiwang670.github.io/experience/experience-2/</guid><description>&lt;h5 id="functional-brain-imaging-study-of-mood-disorder">Functional Brain Imaging Study of Mood Disorder&lt;/h5>
+&lt;p>&lt;em>Master’s Thesis, Best Students &amp;amp; Best Project Award&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Performed activation likelihood estimation analysis to obtain the brain activation pattern for reward anticipation and reward outcome phases during reward learning.&lt;/li>
+&lt;li>Analyzed the task-based fMRI imaging for patients with major depressive disorder, bipolar disorder patients, and health controls by SPM.&lt;/li>
+&lt;li>Explored the relationship between neuroimaging findings and clinical scales by SPSS.&lt;/li>
+&lt;li>Manipulated machine learning on the discovered key features.&lt;/li>
+&lt;/ul>
+&lt;h5 id="development-and-design-blood-glucose-monitoring-socks">Development and Design Blood Glucose Monitoring Socks&lt;/h5>
+&lt;p>&lt;em>Venture Competition Winner (Business idea competition)&lt;/em>&lt;/p></description></item><item><title>Undergraduate</title><link>https://yuxiwang670.github.io/experience/experience-1/</link><pubDate>Mon, 27 Jan 2025 22:41:52 +0800</pubDate><guid>https://yuxiwang670.github.io/experience/experience-1/</guid><description>&lt;h5 id="thermal-protecting-membrane-in-laser-induced-surface-acoustic-wave-optical-coherence-elastography-saw-oce">Thermal Protecting Membrane in Laser-induced Surface Acoustic Wave Optical Coherence Elastography (SAW-OCE)&lt;/h5>
+&lt;p>&lt;em>Undergraduate Thesis, finished in University of Dundee, Dundee, UK&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Determined the material and shape of the targeted membrane.&lt;/li>
+&lt;li>Examined the membrane performance on the substitute material for the human skin to ensure its protection function and no disturbances on skin cancer diagnosis.&lt;/li>
+&lt;/ul>
+&lt;h5 id="synthetic-biology-project-for-international-genetically-engineered-machine-competition">Synthetic Biology Project for International Genetically Engineered Machine Competition&lt;/h5>
+&lt;p>&lt;em>iGEM bronze award&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Conducted optimal condition exploration, design of transcription codon, protein design, subject-related production of notoginseng saponins, and human absorption.&lt;/li>
+&lt;/ul>
+&lt;h5 id="student-research-training-program">Student Research Training Program&lt;/h5>
+&lt;ul>
+&lt;li>Explored the optimal condition to design test paper for detecting the peroxide value of cooking oil with high sensitivity and accuracy.&lt;/li>
+&lt;li>Designed a 3D device for linking the phone test APP to test paper by SOLIDWORKS and 3D printing.&lt;/li>
+&lt;/ul></description></item></channel></rss>
